@@ -43,11 +43,7 @@
    "provides" : {
       "Test::Should" : {
          "file" : "lib/Test/Should.pm",
-         "version" : "0.01"
-      },
-      "UNIVERSAL" : {
-         "file" : "lib/Test/Should.pm",
-         "version" : 0
+         "version" : "0.02"
       }
    },
    "release_status" : "stable",
@@ -56,5 +52,5 @@
          "http://dev.perl.org/licenses/"
       ]
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }
