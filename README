@@ -1,5 +1,5 @@
 NAME
-    Test::Should - Should it be ok??
+    Test::Should - Should it be OK??
 
 SYNOPSIS
         use Test::More;
@@ -21,7 +21,7 @@ DESCRIPTION
 
     And this module generates human readable test case description.
 
-    This is a development release. I may change the api in the future
+    This is a development release. I may change the API in the future
 
     For more method name details, please look Test::Should::Engine
 
